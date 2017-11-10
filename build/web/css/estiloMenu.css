@@ -1,0 +1,56 @@
+#menu{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+44,6d0019+100;Brown+Red+3D */
+background: #a90329; /* Old browsers */
+background: -moz-linear-gradient(top,  #a90329 0%, #8f0222 44%, #6d0019 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #a90329 0%,#8f0222 44%,#6d0019 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=0 ); /* IE6-9 */
+}
+.button{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#45484d+27,45484d+27,000000+100 */
+background: #45484d; /* Old browsers */
+background: -moz-linear-gradient(top,  #45484d 27%, #45484d 27%, #000000 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #45484d 27%,#45484d 27%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #45484d 27%,#45484d 27%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+
+	color:white;
+	display:inline-block;
+	font-size:3em;
+	margin:5px;
+	padding:9px 0;
+	text-align:center;
+	width:200px;
+	text-decoration:none;
+	box-shadow:0px 3px 0px #373c3c;
+	font: 125% sans-serif;
+}
+
+#ListadoVendedores{
+	width:300px;
+
+}
+
+#Agenda{
+	width:150px;
+
+}
+
+#DatosPersonales{
+	width:225px;
+
+}
+.button:hover {
+	box-shadow:0px 0px 0px;
+	padding-top:7px;
+}
+
+.button.menu {
+	box-shadow:0px 3px 0px #400B0B;
+}
+
+#nombreUsuario{
+	text-align: right;
+	color:white;
+	font-family: verdana;
+}
